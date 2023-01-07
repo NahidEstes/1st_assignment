@@ -101,7 +101,7 @@
 /* content section */
 
 .content-section {
-  margin-top: 30px;
+  margin-top: 50px;
 }
 
 .content-flex {
@@ -154,7 +154,7 @@
 
 /* contact box */
 .contact-box {
-  background: linear-gradient(to left, rgba(219, 219, 124, 0), rgb(10, 10, 10)),
+  background: linear-gradient(to left, rgba(219, 219, 124, 0), rgb(88, 48, 48)),
     url(../images/watch.png);
   padding: 40px 30px;
   font-size: 30px;
